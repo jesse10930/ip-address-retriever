@@ -1,0 +1,49 @@
+8/23/21
+	It's been a couple of weeks since I finished my last project. I've been applying to lots of jobs, going back over old apps to fix any bugs, and trying to add unit tests where I can.
+I've abandoned the pro feature on FEM bc it no longer seemed worth it. Also, I'm going to try to build more apps, but smaller so that I can post more to my social medias and hopefully 
+drive more traffic to my website. I'm going to focus on learning new things with this app. It's a fairly basic app dealing with an API to get ip addresses for users, but I'm going to build 
+this app basically to learn Gatsby, implement Jest unit tests along the way, and maybe TypeScript if it's something that makes sense.
+
+Project Goals:
+	1. Learn Gatsby.
+	2. Implement Jest unit tests.
+	3. TypeScript if possible.
+	4. Build it fast, and get it out to the world.
+
+These are the things that I'd like to focus on when building this app. Each day I code, I'm going to make a journal entry with the following structure:
+	A. What I plan to do today.
+	B. What I ended up doing today.
+	C. Any problems/issues/bugs that came up today.
+	D. How I solved those problems/issues/bugs.
+	E. Lessons from today
+
+Day 1 - 8/23/21
+	A. What I plan to do today is get all the boiler plate up, figure out what exactly I'm going to use in the project, start a GitHub repo.
+	B. What I ended up doing today was setting up the boilerplate and started a repo.
+	C. 
+	D. 
+	E. Ok, so I'm going to stick with Gatsby and Jest for this, and save TypeScript for the next code. I don't want to overwhelm myself with too many new features on one app.
+
+Day 2 - 8/27/21
+	A. What I plan to do today is get the ip API working and map API working.
+	B. What I ended up doing today was wasting a bunch of time and getting the ip API working.
+	C. 1. How do I make API calls in Gatsby?
+		 2. How do I query my nodes that I create?
+	D. 1. Just like React.
+		 2. No idea.
+	E. Gatsby seems super complicated right now. I feel like I'm just building a React app with Gatsby. Not sure this is teaching me anything, but I'll finish it regardless.
+
+Day 3 - 8/28/21
+	A. What I plan to do today is finish getting the IP API working.
+	B. What I ended up doing today was getting the IP API fully working.
+	C. 1. Gatsby seems like a lot of bloat...what exactly is the point?
+	D. 1. Maybe for bigger projects...not sure.
+	E. This is a learning experience, and not an enjoyable one. I can't wait to finish this trash and move on to TypeScript.
+
+Day 4 - 8/29/21
+	A. What I plan to do today is get the map API up and running.
+	B. What I did today was get the map API up, but not running. Lots of problems with this shit, too. Even more annoying than Gatsby.
+	C. 1. How to recenter the damn map?
+	D. 1. Still not sure. Leaflet seems like a half-ass API.
+	E. This is now another, even  more annoying piece of this project. It's simple in theory, but it's getting made more and more complicated by this excess tools. I feel like I'm 
+	   trying to use a chain saw to cut a tooth pick in half. Very annoying.
